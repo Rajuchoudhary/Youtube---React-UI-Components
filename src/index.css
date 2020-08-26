@@ -1,0 +1,26 @@
+/* CSS Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* root font size */
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Lato", Arial, Helvetica, sans-serif;
+  background-color: #f3f2fc;
+}
+
+/* App CSS */
+.App {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

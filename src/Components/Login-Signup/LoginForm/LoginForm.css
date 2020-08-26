@@ -1,0 +1,30 @@
+.login-extra {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.login-checkbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.checkbox {
+  width: 2.4rem;
+  height: 2.4rem;
+}
+
+.rememberme {
+  font-size: 1.2rem;
+  color: #6a7187;
+  text-transform: capitalize;
+  margin-left: 1rem;
+}
+
+.login-link {
+  font-size: 1.2rem;
+  color: #9679ff;
+  text-decoration: none;
+  text-transform: capitalize;
+}
